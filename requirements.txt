@@ -35,6 +35,7 @@ flake8==7.3.0
 flatbuffers==25.9.23
 fonttools==4.60.1
 fqdn==1.5.1
+fruits @ git+https://github.com/alienkrieg/fruits@fd5bd3c7e4e55f6de5bcc9ff1791a64685a85c56
 fsspec==2025.10.0
 gast==0.6.0
 giotto-ph==0.2.4
@@ -81,6 +82,7 @@ kiwisolver==1.4.9
 kmapper==2.1.0
 lark==1.3.1
 libclang==18.1.1
+llvmlite==0.45.1
 logistro==2.0.1
 Markdown==3.10
 markdown-it-py==4.0.0
@@ -102,6 +104,7 @@ nest-asyncio==1.6.0
 networkx==3.6
 notebook==7.5.0
 notebook_shim==0.2.4
+numba==0.62.1
 numpy==1.26.4
 opencv-python==4.11.0.86
 opt_einsum==3.4.0

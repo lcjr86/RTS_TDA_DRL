@@ -1,5 +1,6 @@
 # Exluded folders
 /RL_outputs/tensorboard/
+/RL_outputs/results/
 models/
 logs/
 checkpoints/

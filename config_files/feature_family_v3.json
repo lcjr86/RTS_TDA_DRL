@@ -629,6 +629,402 @@
                     "Name": "NetF_QG_modularity"
                 }
             ]
+        },
+        {
+            "Name": "TDA_TD_24_SS_72",
+            "Description": "Topological Data Analysis : Time Delay - 24 | Slice Size - 72",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_24_SS_168",
+            "Description": "Topological Data Analysis : Time Delay - 24 | Slice Size - 168",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_48_SS_72",
+            "Description": "Topological Data Analysis : Time Delay - 48 | Slice Size - 72",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_48_SS_168",
+            "Description": "Topological Data Analysis : Time Delay - 48 | Slice Size - 168",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_72_SS_336_d3",
+            "Description": "Topological Data Analysis : Time Delay - 72 | Slice Size - 336 | Dimension - 3",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_72_SS_336_d4",
+            "Description": "Topological Data Analysis : Time Delay - 72 | Slice Size - 336 | Dimension - 4",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_72_SS_504_d3",
+            "Description": "Topological Data Analysis : Time Delay - 72 | Slice Size - 504 | Dimension - 3",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_72_SS_504_d4",
+            "Description": "Topological Data Analysis : Time Delay - 72 | Slice Size - 504 | Dimension - 4",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_167_SS_336_d3",
+            "Description": "Topological Data Analysis : Time Delay - 167 | Slice Size - 336 | Dimension - 3",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_111_SS_336_d4",
+            "Description": "Topological Data Analysis : Time Delay - 111 | Slice Size - 336 | Dimension - 4",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_168_SS_504_d3",
+            "Description": "Topological Data Analysis : Time Delay - 168 | Slice Size - 504 | Dimension - 3",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
+        },
+        {
+            "Name": "TDA_TD_167_SS_504_d4",
+            "Description": "Topological Data Analysis : Time Delay - 167 | Slice Size - 504 | Dimension - 4",
+            "Members": [
+                {
+                    "Name": "connected_components_entropy"
+                },
+                {
+                    "Name": "loops_entropy"
+                },
+                {
+                    "Name": "voids_entropy"
+                },
+                {
+                    "Name": "connected_components_amplitude"
+                },
+                {
+                    "Name": "loops_amplitude"
+                },
+                {
+                    "Name": "voids_amplitude"
+                },
+                {
+                    "Name": "connected_components_number_of_points"
+                },
+                {
+                    "Name": "loops_number_of_points"
+                },
+                {
+                    "Name": "voids_number_of_points"
+                }
+            ]
         }
     ]
 }
